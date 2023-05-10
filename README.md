@@ -2,10 +2,10 @@
 
 
 ## 운영체제
-+ 프로세스와 스레드
-  + 프로세스 주소 공간
-  + PCB/Context Swiching
-  + 인터럽트
++ [프로세스와 스레드](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/프로세스와%20스레드.md)
+  + [프로세스 주소 공간](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/프로세스%20주소%20공간.md)
+  + [PCB와 Context Swiching](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/PCB와%20Context%20Switching.md)
+  + [인터럽트](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/인터럽트.md)
 + 프로세스 동기화
   + Race Condition 
   + Semaphore
