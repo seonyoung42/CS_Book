@@ -6,10 +6,9 @@
   + [프로세스 주소 공간](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/프로세스%20주소%20공간.md)
   + [PCB와 Context Swiching](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/PCB와%20Context%20Switching.md)
   + [인터럽트](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/인터럽트.md)
-+ 프로세스 동기화
-  + Race Condition 
-  + Semaphore
-  + Mutex
++ [프로세스 동기화](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/프로세스%20동기화.md)
+  + [Race Condition](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/Race%20Condition.md)
+  + [Semaphore와 Mutex](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/Semaphore%20와%20Mutex.md)
 + 교착상태와 기아상태
   + Dead Lock
 + 시스템 콜
