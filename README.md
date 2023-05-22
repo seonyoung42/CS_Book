@@ -10,7 +10,7 @@
 + [프로세스 동기화](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/프로세스%20동기화.md)
   + [Race Condition](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/Race%20Condition.md)
   + [Semaphore와 Mutex](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/Semaphore%20와%20Mutex.md)
-+ 시스템 콜
++ [시스템 콜](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/시스템%20콜.md)
 + CPU 스케줄링 기법
 + Blocking/Non-blocking & Synchronous/Asynchronous
 + IPC(Inter Process Communication)
