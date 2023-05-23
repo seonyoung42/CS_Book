@@ -11,8 +11,8 @@
   + [Race Condition](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/Race%20Condition.md)
   + [Semaphore와 Mutex](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/Semaphore%20와%20Mutex.md)
 + [시스템 콜](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/시스템%20콜.md)
-+ CPU 스케줄링 기법
-+ Blocking/Non-blocking & Synchronous/Asynchronous
++ [CPU 스케줄](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/CPU%20스케쥴링.md)
++ [Blocking/Non-blocking & Synchronous/Asynchronous](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/Blocking%2C%20Non-blocking%20%26%20Synchronous%2C%20Asynchronous.md)
 + IPC(Inter Process Communication)
 + 가상 메모리
 + 페이징과 세그멘테이션
