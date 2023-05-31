@@ -16,8 +16,8 @@
 + [IPC(Inter Process Communication)](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/IPC.md)
 + [가상 메모리](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/가상메모리.md)
 + [페이징과 세그멘테이션](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/페이징과%20세그멘테이션.md)
-+ 페이지 교체 알고리즘
-+ 캐시의 지역성
++ [페이지 교체 알고리즘](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/페이지%20교체%20알고리즘.md)
++ [캐시의 지역성](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/캐시의%20지역성.md)
 + 파일 시스템
 
 ## 네트워크
