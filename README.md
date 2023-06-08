@@ -18,7 +18,7 @@
 + [페이징과 세그멘테이션](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/페이징과%20세그멘테이션.md)
 + [페이지 교체 알고리즘](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/페이지%20교체%20알고리즘.md)
 + [캐시의 지역성](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/캐시의%20지역성.md)
-+ 파일 시스템
++ [파일 시스템](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/파일시스템.md)
 
 ## 네트워크
 + 쿠키, 세션, JWT 토큰
@@ -36,7 +36,7 @@
 + OAuth
 
 ## 데이터베이스
-+ DB Key
++ [DB Key](https://github.com/seonyoung42/CS_Book/blob/master/DataBase/DB%20Key.md)
 + JOIN
 + Index
 + Normalization
