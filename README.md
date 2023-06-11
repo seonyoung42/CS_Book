@@ -37,7 +37,7 @@
 
 ## 데이터베이스
 + [DB Key](https://github.com/seonyoung42/CS_Book/blob/master/DataBase/DB%20Key.md)
-+ JOIN
++ [JOIN](https://github.com/seonyoung42/CS_Book/blob/master/DataBase/JOIN.md)
 + Index
 + Normalization
 + Anomaly
