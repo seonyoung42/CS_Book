@@ -1,5 +1,5 @@
 # 📖 CS_Book
-모바일 개발자가 알아야하는 CS 주제들을 적당한(🕳) 깊이로 학습하고 이해하기 쉽게 작성합니다.
+필수 CS 주제들을 학습하고 이해하기 쉽게 작성합니다.
 
 ## 운영체제
 + [프로세스와 스레드](https://github.com/seonyoung42/CS_Book/blob/master/OperatingSystem/프로세스와%20스레드.md)
@@ -32,7 +32,8 @@
 + Load Balancer
   + DNS round robin 방식
 + CORS
-+ REST and RESTful
++ [REST and REST API](https://github.com/seonyoung42/CS_Book/blob/master/Network/Rest와%20Rest%20API.md)
++ [URI 와 URL](https://github.com/seonyoung42/CS_Book/blob/master/Network/URI와%20URL.md)
 + OAuth
 
 ## 데이터베이스
