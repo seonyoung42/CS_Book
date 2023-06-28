@@ -27,8 +27,8 @@
   + [TCP/IP 흐름제어 & 혼잡제어](https://github.com/seonyoung42/CS_Book/blob/master/Network/TCP%26IP%20혼잡제어%26흐름제어.md)
   + [TCP 와 UDP](https://github.com/seonyoung42/CS_Book/blob/master/Network/TCP와%20UDP.md)
   + [TCP 3-way-handshake / 4-way-handshake](https://github.com/seonyoung42/CS_Book/blob/master/Network/TCP%203-way-handshake%20%26%204-way-handshake.md)
-+ HTTP와 HTTPS
-  + GET, POST
++ [HTTP와 HTTPS](https://github.com/seonyoung42/CS_Book/blob/master/Network/HTTP와%20HTTPS.md)
+  + [GET과 POST](https://github.com/seonyoung42/CS_Book/blob/master/Network/GET과%20POST.md)
 + Load Balancer
   + DNS round robin 방식
 + CORS
