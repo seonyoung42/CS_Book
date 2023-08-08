@@ -29,8 +29,8 @@
   + [TCP 3-way-handshake / 4-way-handshake](https://github.com/seonyoung42/CS_Book/blob/master/Network/TCP%203-way-handshake%20%26%204-way-handshake.md)
 + [HTTP와 HTTPS](https://github.com/seonyoung42/CS_Book/blob/master/Network/HTTP와%20HTTPS.md)
   + [GET과 POST](https://github.com/seonyoung42/CS_Book/blob/master/Network/GET과%20POST.md)
-+ Load Balancer
-  + DNS round robin 방식
++ [Load Balancing](https://github.com/seonyoung42/CS_Book/blob/master/Network/Load%20Balancing.md)
+  + [DNS Round Robin](https://github.com/seonyoung42/CS_Book/blob/master/Network/DNS%20Round%20Robin.md)
 + CORS
 + [REST and REST API](https://github.com/seonyoung42/CS_Book/blob/master/Network/Rest와%20Rest%20API.md)
 + [URI 와 URL](https://github.com/seonyoung42/CS_Book/blob/master/Network/URI와%20URL.md)
